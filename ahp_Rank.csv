@@ -1,0 +1,11 @@
+,DEVICES,STORAGE,MEMORY,CACHE MEMORY,POWER CONSUMPTION,PROCESSOR
+0,Lenovo Ideapad 520,512,8,4,65,1.6
+1,Dell Inspiron 5593,512,8,6,65,1.0
+2,Acer Swift 3,512,4,4,85,1.4
+3,acer predator,256,8,8,130,2.3
+4,Lenovo Ideacentre desktop,256,8,4,145,2.7
+5,Samsung Galaxy S20 Ultra,128,12,6,26,2.0
+6,Samsung Galaxy Tab S6,256,6,4,35,1.4
+7,dell inspiron desktop,256,4,6,145,2.8
+8,HP x360 Pavillion,128,8,8,65,1.8
+9,raspberry pi 4,128,4,2,15,1.5
